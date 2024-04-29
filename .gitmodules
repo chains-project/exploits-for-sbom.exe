@@ -1,0 +1,3 @@
+[submodule "rogue-jndi"]
+	path = rogue-jndi
+	url = git@github.com:veracode-research/rogue-jndi.git
